@@ -42,7 +42,7 @@ Here is a run through of how to set up the application:
 - CSS
 - Javascript
 - Bootstrap 5
--Jquery
+- Jquery
 
 ## Support and contact details
 
