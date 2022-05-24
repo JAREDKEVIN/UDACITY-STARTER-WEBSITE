@@ -1,5 +1,10 @@
 # DEPLOYING A STATIC WEBSITE ON AWS
 
+![BUCKET NAME](https://github.com/JAREDKEVIN/UDACITY-STARTER-WEBSITE/blob/master/screenshots/bucket.png)
+![CLOUDFRONT](https://github.com/JAREDKEVIN/UDACITY-STARTER-WEBSITE/blob/master/screenshots/cloudfront.png)
+![PERMISSIONS](https://github.com/JAREDKEVIN/UDACITY-STARTER-WEBSITE/blob/master/screenshots/permissions.png)
+![STATIC WEBSITE HOSTING](https://github.com/JAREDKEVIN/UDACITY-STARTER-WEBSITE/blob/master/screenshots/static%20website%20hosting.png)
+
 
 ### Author
  **[KEVIN KIPKEMOI.](https://github.com/JAREDKEVIN)**
