@@ -4,6 +4,9 @@
 ![CLOUDFRONT](https://github.com/JAREDKEVIN/UDACITY-STARTER-WEBSITE/blob/master/screenshots/cloudfront.png)
 ![PERMISSIONS](https://github.com/JAREDKEVIN/UDACITY-STARTER-WEBSITE/blob/master/screenshots/permissions.png)
 ![STATIC WEBSITE HOSTING](https://github.com/JAREDKEVIN/UDACITY-STARTER-WEBSITE/blob/master/screenshots/static%20website%20hosting.png)
+![BUCKET ENABLED](https://github.com/JAREDKEVIN/UDACITY-STARTER-WEBSITE/blob/master/screenshots/bucketname.png)
+![DISTRIBUTION](https://github.com/JAREDKEVIN/UDACITY-STARTER-WEBSITE/blob/master/screenshots/enabled%20distributions.png)
+
 
 
 ### Author
