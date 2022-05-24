@@ -8,7 +8,11 @@
 
 A static website that allows  a user to search destinations and book hotels.
 
-**[Live-Link to site.](https://my-646849222878-bucket.s3.amazonaws.com/index.html)**
+**[Live-Link to site 1.](https://my-646849222878-bucket.s3.amazonaws.com/index.html)**
+
+**[Live-Link to site 2.](https://d394o75htkk6yn.cloudfront.net)**
+
+**[Live-Link to site 3.](http://my-646849222878-bucket.s3-website.us-east-2.amazonaws.com/)**
 
 ## Features
 
